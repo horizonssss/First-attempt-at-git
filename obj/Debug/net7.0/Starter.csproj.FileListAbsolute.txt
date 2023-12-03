@@ -12,3 +12,4 @@
 /Users/Brad/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.pdb
 /Users/Brad/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.genruntimeconfig.cache
 /Users/Brad/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/ref/Starter.dll
+/Users/Brad/Downloads/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/Debug/net7.0/Starter.sourcelink.json
